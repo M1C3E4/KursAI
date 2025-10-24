@@ -3,4 +3,4 @@ zmiennoprzecinkowa = 0.9
 napis = "Tekst"
 logiczna = False
 
-print(f"liczba:{liczba}, liczba zmiennoprzecinkowa: {zmiennoprzecinkowa}, napis: {napis}, logiczna: {logiczna}")
+print(f"liczba:{liczba}, liczba zmiennoprzecinkowa: {zmiennoprzecinkowa}, napis: {napis}, logiczna: {logiczna}. Siemano kolano elo trzy dwa zero")
